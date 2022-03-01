@@ -4,7 +4,7 @@
 # project1-ElkStack
 
 Automated ELK Stack Deployment
->>>>>>> 6fddfbf413f15ccf45145e06a18f3cc71aa2b591
+![Network Diagram](/Images/NetworkDiagram.png)
 
 The files in this repository were used to configure the network depicted below.
 
