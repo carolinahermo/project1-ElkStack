@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿Automated ELK Stack Deployment
+=======
+# project1-ElkStack
+
+Automated ELK Stack Deployment
+>>>>>>> 6fddfbf413f15ccf45145e06a18f3cc71aa2b591
 
 The files in this repository were used to configure the network depicted below.
 
